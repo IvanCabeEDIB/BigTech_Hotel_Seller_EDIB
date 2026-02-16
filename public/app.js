@@ -20,3 +20,7 @@ fetch('/api/product').then(r=>r.json()).then(list=>{
     container.appendChild(wrapper)
   })
 })
+
+// TODO2: add a new endpoint to get the list of cities and add a filter by city in the UI
+
+// TODO3: modify the server to add a new endpoint to get the list of hotels with offers and show it in the UI in a new section "Hoteles con ofertas"
