@@ -1,6 +1,6 @@
-# BigTech Hotel Seller (demo)
+# BigTech Hotel Seller
 
-Proyecto muy simple con Node.js + Fastify.
+Proyecto extremadamente profesional
 
 QUE HACE
 - API: GET /api/products (devuelve los productos de data/products.json)
